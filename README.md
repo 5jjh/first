@@ -1,6 +1,6 @@
 # first
 first repository
-**my name: **
+My name:
 1. John
 2. Joseph
 3. Harris
